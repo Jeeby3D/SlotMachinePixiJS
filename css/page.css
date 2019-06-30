@@ -1,0 +1,12 @@
+body {
+    background: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/107366/crisp_paper_ruffles.png') repeat 50% 50%;
+}
+
+
+canvas {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px #D82257 dashed;
+  }
